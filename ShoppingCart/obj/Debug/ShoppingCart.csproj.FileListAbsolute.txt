@@ -1,0 +1,7 @@
+C:\Users\solanbha\Documents\Visual Studio 2017\Projects\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.exe.config
+C:\Users\solanbha\Documents\Visual Studio 2017\Projects\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.exe
+C:\Users\solanbha\Documents\Visual Studio 2017\Projects\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.pdb
+C:\Users\solanbha\Documents\Visual Studio 2017\Projects\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csprojAssemblyReference.cache
+C:\Users\solanbha\Documents\Visual Studio 2017\Projects\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\solanbha\Documents\Visual Studio 2017\Projects\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.exe
+C:\Users\solanbha\Documents\Visual Studio 2017\Projects\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.pdb

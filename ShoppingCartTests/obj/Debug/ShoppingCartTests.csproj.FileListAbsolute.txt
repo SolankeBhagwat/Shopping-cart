@@ -1,0 +1,17 @@
+C:\Users\solanbha\Documents\Visual Studio 2017\Projects\ShoppingCart\ShoppingCartTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\solanbha\Documents\Visual Studio 2017\Projects\ShoppingCart\ShoppingCartTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\solanbha\Documents\Visual Studio 2017\Projects\ShoppingCart\ShoppingCartTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\solanbha\Documents\Visual Studio 2017\Projects\ShoppingCart\ShoppingCartTests\bin\Debug\ShoppingCartTests.dll
+C:\Users\solanbha\Documents\Visual Studio 2017\Projects\ShoppingCart\ShoppingCartTests\bin\Debug\ShoppingCartTests.pdb
+C:\Users\solanbha\Documents\Visual Studio 2017\Projects\ShoppingCart\ShoppingCartTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\solanbha\Documents\Visual Studio 2017\Projects\ShoppingCart\ShoppingCartTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\solanbha\Documents\Visual Studio 2017\Projects\ShoppingCart\ShoppingCartTests\bin\Debug\ShoppingCart.exe
+C:\Users\solanbha\Documents\Visual Studio 2017\Projects\ShoppingCart\ShoppingCartTests\bin\Debug\ShoppingCart.pdb
+C:\Users\solanbha\Documents\Visual Studio 2017\Projects\ShoppingCart\ShoppingCartTests\bin\Debug\ShoppingCart.exe.config
+C:\Users\solanbha\Documents\Visual Studio 2017\Projects\ShoppingCart\ShoppingCartTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\solanbha\Documents\Visual Studio 2017\Projects\ShoppingCart\ShoppingCartTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\solanbha\Documents\Visual Studio 2017\Projects\ShoppingCart\ShoppingCartTests\obj\Debug\ShoppingCartTests.csprojAssemblyReference.cache
+C:\Users\solanbha\Documents\Visual Studio 2017\Projects\ShoppingCart\ShoppingCartTests\obj\Debug\ShoppingCartTests.csproj.CoreCompileInputs.cache
+C:\Users\solanbha\Documents\Visual Studio 2017\Projects\ShoppingCart\ShoppingCartTests\obj\Debug\ShoppingCartTests.csproj.CopyComplete
+C:\Users\solanbha\Documents\Visual Studio 2017\Projects\ShoppingCart\ShoppingCartTests\obj\Debug\ShoppingCartTests.dll
+C:\Users\solanbha\Documents\Visual Studio 2017\Projects\ShoppingCart\ShoppingCartTests\obj\Debug\ShoppingCartTests.pdb
